@@ -2,8 +2,6 @@
 
 ***Hi there, thanks for taking the time to view my profile!*** 😎
 
-<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47shs1y85vxb9n06ln9pxmevni8w635p5122cs6s7l&rid=giphy.gif&ct=g" width="220" alt="gif">
-
 ```javascript
 const joaquin = {
     name: "Joaquin",
@@ -32,6 +30,11 @@ const joaquin = {
 <a href="https://www.twitch.tv/cordobes">
 <img align="left" alt="Joaquin Giorgis Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
 </a>
+
+<br/>
+```
+
+<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47shs1y85vxb9n06ln9pxmevni8w635p5122cs6s7l&rid=giphy.gif&ct=g" width="220" alt="gif">
 
 
 ![bottom.png](https://i.imgur.com/vhK7POS.png)

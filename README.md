@@ -2,7 +2,7 @@
 
 ***Hi there, thanks for taking the time to view my profile!*** 😎
 
-<img align='right' src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47y1hll4onv68sgo0wq9beavr9b0qldnqly4wm4nzk&rid=giphy.gif&ct=g" width="220" alt="gif">
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47shs1y85vxb9n06ln9pxmevni8w635p5122cs6s7l&rid=giphy.gif&ct=g" width="220" alt="gif">
 
 ```javascript
 const joaquin = {

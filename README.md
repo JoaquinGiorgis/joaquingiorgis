@@ -7,8 +7,8 @@ const joaquin = {
     name: "Joaquin",
     surname:"Giorgis",
     age:"21",
-    actuallyWork:"BlackBeaver",
-    previousWorks: "Naranja X",
+    actuallyWork:"JPMorgan Chase & Co",
+    previousWorks: "Naranja X, BlackBeaver",
     askMeAbout: ["Software engineer 💻", "Tech 🚀", "Gamer 🎮"],
     technologies: {
         frontEnd: {
